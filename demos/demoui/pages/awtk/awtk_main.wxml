@@ -1,0 +1,8 @@
+<canvas class="main_canvas" bindtouchstart="bindTouchStart" bindtouchmove="bindTouchMove" bindtouchend="bindTouchEnd" canvas-id="awtk-lcd">
+</canvas>
+
+<canvas class="fbo" canvas-id="fbo1">
+</canvas>
+
+<canvas class="fbo" canvas-id="fbo2">
+</canvas>
